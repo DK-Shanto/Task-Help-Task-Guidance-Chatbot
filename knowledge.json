@@ -1,0 +1,30 @@
+[
+  {
+    "id": "getting-started",
+    "category": "Help",
+    "question": "What can this chatbot help me with?",
+    "phrases": ["help", "what can you do", "getting started"],
+    "answer": "I answer questions using the task guides provided by your team. Select a topic or ask a question. This demo includes a few introductory answers; your team needs to add approved instructions for actual tasks."
+  },
+  {
+    "id": "faq-language",
+    "category": "FAQs",
+    "question": "Are FAQs available in Bangla?",
+    "phrases": ["bangla", "bengali", "বাংলা", "language", "english"],
+    "answer": "The existing FAQ service supports English and Bangla questions and answers. Availability depends on which translations your team has entered."
+  },
+  {
+    "id": "project-guide",
+    "category": "Projects",
+    "question": "How do I create a project?",
+    "phrases": ["create project", "new project", "add project", "start project"],
+    "answer": "An approved project creation guide has not been added yet. Please contact your project administrator for instructions. Your team can replace this entry with the verified steps."
+  },
+  {
+    "id": "file-guide",
+    "category": "Files",
+    "question": "How do I upload a file?",
+    "phrases": ["upload file", "add document", "attach file", "upload document"],
+    "answer": "An approved file upload guide has not been added yet. Please contact your administrator for instructions. Your team can replace this entry with the verified steps."
+  }
+]
